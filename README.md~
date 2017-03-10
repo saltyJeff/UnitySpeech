@@ -1,0 +1,5 @@
+# UnitySpeech
+A Unity3d library for speech recognition and synthesis on Android
+## Build Instructions
+Follow the instructions from <https://forum.unity3d.com/threads/my-painful-build-proccess-of-android-studio-and-unity3d.437772/>
+
