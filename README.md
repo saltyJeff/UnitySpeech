@@ -12,4 +12,5 @@ Implement all the abstrat methods with your own callbacks
 Follow the instructions from <https://forum.unity3d.com/threads/my-painful-build-proccess-of-android-studio-and-unity3d.437772/>
 ## Credits
 Bindings by Jefferson Lee
+
 Based off of the android-speech library from <https://github.com/gotev/android-speech/tree/master> under the Apache License
